@@ -1,0 +1,28 @@
+{
+	"_id": "",
+	"_icon": "\\\\vmware-host\\Shared Folders\\Desktop\\LogoUnicred Transparente.png",
+	"_ssL": "",
+	"_ssP": "\\\\vmware-host\\Shared Folders\\Desktop\\LogoUnicred.png",
+	"_initialUxComponent": "DiagTI",
+	"_componentLastUpdated": "30/03/2016 05:11:53 08 pm",
+	"_ajaxUrl": "http://23.246.244.61/DiagTI",
+	"_additionalFiles": "",
+	"_userName": "NTa44A6IxyuXBJ2fjTM2P6TxP6B2LEDNjYiewU9u+Ak=",
+	"_pw": "3MWfHxwJZxDsN2KvBEJaSA==",
+	"_token": "",
+	"timeout": {
+		"phoneGapBuild": "<default>",
+		"phoneGapBuildLogin": "<default>",
+		"getAppIcon": "<default>"
+	},
+	"apperian": {
+		"enableOptions": false,
+		"loginName": "osLnGM4pUcQ=",
+		"password": "c5JMXi9Y+Ko=",
+		"serverURL": "https://easesvc.apperian.com/ease.interface.php"
+	},
+	"backupConfigFile": true,
+	"useImageMagick": true,
+	"indexHTMLMetaTags": "",
+	"_sqlitedbdefined": false
+}
